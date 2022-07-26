@@ -69,4 +69,3 @@ function handleClick(x){
     alert(playRound(x,y));
 
 }
-console.log(computerScore+" "+playerScore)
